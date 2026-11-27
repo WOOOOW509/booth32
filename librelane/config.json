@@ -1,0 +1,9 @@
+{
+    "DESIGN_NAME": "booth32_core",
+    "VERILOG_FILES": [
+        "dir::../src/booth32_core.sv"
+    ],
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 20.0,
+    "FP_CORE_UTIL": 35
+}
